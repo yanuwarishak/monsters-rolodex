@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "yanuwarishak.github.io/monsters-rolodex/static/css/main.6fa95b5b.chunk.css",
-    "main.js": "yanuwarishak.github.io/monsters-rolodex/static/js/main.67e3aefe.chunk.js",
-    "main.js.map": "yanuwarishak.github.io/monsters-rolodex/static/js/main.67e3aefe.chunk.js.map",
-    "runtime-main.js": "yanuwarishak.github.io/monsters-rolodex/static/js/runtime-main.ec4cb957.js",
-    "runtime-main.js.map": "yanuwarishak.github.io/monsters-rolodex/static/js/runtime-main.ec4cb957.js.map",
-    "static/js/2.3a82cee6.chunk.js": "yanuwarishak.github.io/monsters-rolodex/static/js/2.3a82cee6.chunk.js",
-    "static/js/2.3a82cee6.chunk.js.map": "yanuwarishak.github.io/monsters-rolodex/static/js/2.3a82cee6.chunk.js.map",
-    "index.html": "yanuwarishak.github.io/monsters-rolodex/index.html",
-    "precache-manifest.d7e3bbec2fc6bfef98f85d42320d34b5.js": "yanuwarishak.github.io/monsters-rolodex/precache-manifest.d7e3bbec2fc6bfef98f85d42320d34b5.js",
-    "service-worker.js": "yanuwarishak.github.io/monsters-rolodex/service-worker.js",
-    "static/css/main.6fa95b5b.chunk.css.map": "yanuwarishak.github.io/monsters-rolodex/static/css/main.6fa95b5b.chunk.css.map",
-    "static/js/2.3a82cee6.chunk.js.LICENSE": "yanuwarishak.github.io/monsters-rolodex/static/js/2.3a82cee6.chunk.js.LICENSE"
+    "main.css": "https://yanuwarishak.github.io/monsters-rolodex/static/css/main.6fa95b5b.chunk.css",
+    "main.js": "https://yanuwarishak.github.io/monsters-rolodex/static/js/main.67e3aefe.chunk.js",
+    "main.js.map": "https://yanuwarishak.github.io/monsters-rolodex/static/js/main.67e3aefe.chunk.js.map",
+    "runtime-main.js": "https://yanuwarishak.github.io/monsters-rolodex/static/js/runtime-main.ec4cb957.js",
+    "runtime-main.js.map": "https://yanuwarishak.github.io/monsters-rolodex/static/js/runtime-main.ec4cb957.js.map",
+    "static/js/2.3a82cee6.chunk.js": "https://yanuwarishak.github.io/monsters-rolodex/static/js/2.3a82cee6.chunk.js",
+    "static/js/2.3a82cee6.chunk.js.map": "https://yanuwarishak.github.io/monsters-rolodex/static/js/2.3a82cee6.chunk.js.map",
+    "index.html": "https://yanuwarishak.github.io/monsters-rolodex/index.html",
+    "precache-manifest.d7e3bbec2fc6bfef98f85d42320d34b5.js": "https://yanuwarishak.github.io/monsters-rolodex/precache-manifest.d7e3bbec2fc6bfef98f85d42320d34b5.js",
+    "service-worker.js": "https://yanuwarishak.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.6fa95b5b.chunk.css.map": "https://yanuwarishak.github.io/monsters-rolodex/static/css/main.6fa95b5b.chunk.css.map",
+    "static/js/2.3a82cee6.chunk.js.LICENSE": "https://yanuwarishak.github.io/monsters-rolodex/static/js/2.3a82cee6.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ec4cb957.js",
